@@ -6,19 +6,21 @@ To efficiently handle large text files, I incorporated lazy loading and parallel
 
 **Installation**
 Clone the repository: 
-_git clone https://github.com/yourusername/WordsCounter.git_
+`git clone https://github.com/yourusername/WordsCounter.git`
 
 Navigate to the project directory:
-_cd WordsCounter_
+`cd WordsCounter`
 
 Build the project:
-_dotnet build_
+`dotnet build`
 
 **How to Run**
-1. Run the application with the path to the text file as an argument:
-dotnet run -- "path/to/your/textfile.txt"
-**Example** dotnet run -- "sample.txt"
-2. Alternatively, you can run the application and provide the file path when prompted.
+1.Goto project folder like below - _run below command from the downloaded git repository_ 
+  - `cd ".\src\WordsCounter"`
+  - Run the application with the path to the text file as an argument:
+      `dotnet run -- "path/to/your/textfile.txt"`
+    
+2. Alternatively, you can run the application(**WordsCounter.exe** from bin folder) and provide the file path when prompted.
 
 The application will output the count of distinct words and the frequency of each word.
 
