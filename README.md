@@ -28,3 +28,7 @@ The application will output the count of distinct words and the frequency of eac
 **Unittests**
 
 Included unit tests to verify the functionality of the `WordFrequencyCounter` class. These tests ensure that the word counting logic works correctly with various types of input.
+
+**Sample Output**
+
+![image](https://github.com/user-attachments/assets/ddb1c414-f9a0-49cb-a4f5-5f450ba8be17)
