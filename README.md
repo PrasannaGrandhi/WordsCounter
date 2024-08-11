@@ -25,4 +25,6 @@ Alternatively, you can run the application(**WordsCounter.exe** from bin folder)
 
 The application will output the count of distinct words and the frequency of each word.
 
+**Unittests**
 
+Included unit tests to verify the functionality of the `WordFrequencyCounter` class. These tests ensure that the word counting logic works correctly with various types of input.
