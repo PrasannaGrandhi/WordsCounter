@@ -9,7 +9,7 @@ Clone the repository:
 `git clone https://github.com/yourusername/WordsCounter.git`
 
 Navigate to the project directory:
-`cd WordsCounter`
+`cd .\src\WordsCounter`
 
 Build the project:
 `dotnet build`
