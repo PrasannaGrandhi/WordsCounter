@@ -15,12 +15,13 @@ Build the project:
 `dotnet build`
 
 **How to Run**
-1.Goto project folder like below - _run below command from the downloaded git repository_ 
+
+Goto cloned solution folder and run below commands
   - `cd ".\src\WordsCounter"`
   - Run the application with the path to the text file as an argument:
       `dotnet run -- "path/to/your/textfile.txt"`
-    
-2. Alternatively, you can run the application(**WordsCounter.exe** from bin folder) and provide the file path when prompted.
+
+Alternatively, you can run the application(**WordsCounter.exe** from bin folder) and provide the file path when prompted.
 
 The application will output the count of distinct words and the frequency of each word.
 
